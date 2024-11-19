@@ -1,0 +1,15 @@
+.img {
+    display: block;
+    margin: 0 auto;
+    height: 50%;
+    width: 50%;
+}
+
+.formulario {
+    text-align: justify;
+    background-color: #f9f9f9;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+
